@@ -10,7 +10,9 @@ while (i <= sayi)
 
 }
 
-// while önce koşulu kontrol ederken,do-while önce bir kere çalıştırıp sonra koşulu kontrol ediyor.Bu örnekte örneğin negatif sayı girildiğinde koşulu sağlamayacağından while ile çalıştırıldığında ekrana hiçbir şey yazdırılmaz.do-while ile çalıştırılırsa koşulu sağlamamasına rağmen bir kere ekranda "Ben bir Patika'lıyım" yazılır.
+// while önce koşulu kontrol ederken,do-while önce bir kere çalıştırıp sonra koşulu kontrol ediyor.Bu örnekte örneğin negatif sayı girildiğinde 
+//koşulu sağlamayacağından while ile çalıştırıldığında ekrana hiçbir şey yazdırılmaz.do-while ile çalıştırılırsa koşulu sağlamamasına rağmen 
+//bir kere ekranda "Ben bir Patika'lıyım" yazılır.
 
 
 
